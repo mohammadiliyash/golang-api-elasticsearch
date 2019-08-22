@@ -1,0 +1,28 @@
+{
+    "go.buildOnSave": "package",
+    "go.lintOnSave": "package",
+    "go.vetOnSave": "package",
+    "go.buildTags": "",
+    "go.buildFlags": [],
+    "go.lintFlags": [],
+    "go.vetFlags": [],
+    "go.coverOnSave": false,
+    "go.useCodeSnippetsOnFunctionSuggest": false,
+    "editor.formatOnSave": true,
+    "go.formatTool": "goreturns",
+    "go.gocodeAutoBuild": false,
+    "cSpell.words": [
+        "PCURI",
+        "gson",
+        "negroni",
+        "nlog",
+        "oauth",
+        "parnurzeal",
+        "stretchr",
+        "txbrand",
+        "txdomain",
+        "txid",
+        "txtype",
+        "ulong"
+    ]
+}
